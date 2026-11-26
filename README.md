@@ -17,7 +17,11 @@ Make.fun bounty entry: Make the AI Judge Laugh — one joke about office life, o
 - **True to the office:** the phrase is a daily reality for anyone who works in email; the listener nods before laughing.
 - **Surprising turn:** a will is the last place anyone expects an email cliché — the joke escalates from inbox to afterlife in one breath.
 - **Tight:** 95 characters, no wasted setup, every word earning its place, reads cleanly aloud.
-- **Original:** the "per my last email" setup is familiar, but the will twist is a fresh angle, not a swapped-noun stock line.
+- **Original:** the setup is familiar, but the will twist is a fresh angle, not a swapped-noun stock line.
+
+## How the joke lands
+
+The first half sounds like a normal office complaint; the second half reframes the will — the most solemn document a person writes — as one more email thread. The laugh comes from the collision: the driest corporate phrase, in the last place it belongs.
 
 ## Run it
 
